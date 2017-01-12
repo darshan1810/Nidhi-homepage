@@ -2,54 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd6d5f3d-d0e6-4d75-8bb4-04960440176c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/contact/contactengine.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/contact/contactthanks.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/contact/error.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/contact/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/contact/js/jquery-1.2.6.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/contact/js/jquery.validate.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/blue.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/ie6.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/ie7.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/print.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/bbottom.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/bmid.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/border1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/border2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/btop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/bullet.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frame.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icn-ad.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icn-contact.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icn-facebook.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icn-mail.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icn-print.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icn-save.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icn-tel.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icn-twitter.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icn-web.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/image.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/paperbottom.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/papertop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/pbottom.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/pmid.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ptop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/submit.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/tipsy.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/title.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/cufon.yui.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/custom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery-1.4.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.colorbox.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.tipsy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/myriad.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/scrollTo.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/profile-img.jpg" afterPath="$PROJECT_DIR$/assets/images/profile-img.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="blue.iws" />
@@ -73,9 +26,17 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="53" column="19" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
-              <folding />
+            <state relative-caret-position="288">
+              <caret line="269" column="144" selection-start-line="269" selection-start-column="144" selection-end-line="269" selection-end-column="144" />
+              <folding>
+                <element signature="n#div#0;n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#0;n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#div#0;n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#3;n#div#0;n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -137,64 +98,7 @@
     </navigator>
     <panes>
       <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blue" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blue" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blue" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blue" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blue" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ref" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="demo.deviserweb.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blue" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blue" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ref" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="demo.deviserweb.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cv" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
+        <subPane />
       </pane>
       <pane id="Scratches" />
       <pane id="Scope" />
@@ -838,12 +742,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1484185665666</updated>
-      <workItem from="1484185667310" duration="3438000" />
+      <workItem from="1484185667310" duration="9084000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3438000" />
+    <option name="totallyTimeSpent" value="9084000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="0" width="1928" height="1044" extended-state="6" />
@@ -860,7 +764,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293348" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1638207" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1638207" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -917,9 +821,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="53" column="19" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
-          <folding />
+        <state relative-caret-position="288">
+          <caret line="269" column="144" selection-start-line="269" selection-start-column="144" selection-end-line="269" selection-end-column="144" />
+          <folding>
+            <element signature="n#div#0;n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
