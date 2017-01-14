@@ -212,6 +212,12 @@ body {
 .sidebar .section-item-details p {
   margin: 0px;
 }
+.sidebar .about-me a {
+  text-decoration: underline;
+}
+.sidebar .about-me p {
+    margin-bottom: 10px;
+}
 .sidebar .info {
   border-bottom: 1px solid #4783c2;
   padding-left: 0px;
